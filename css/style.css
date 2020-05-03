@@ -15,6 +15,15 @@ li {
     list-style-type: square;
 }
 
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
 .profile-image {
     border-radius: 100%;
 }
