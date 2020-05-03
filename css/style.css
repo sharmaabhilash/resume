@@ -1,0 +1,32 @@
+body {
+    /* background-color: #f8f3eb; */
+}
+
+i {
+    color: #40bad5;
+}
+
+hr {
+    color: white;
+    border-style: solid none none;
+}
+
+li {
+    list-style-type: square;
+}
+
+.profile-image {
+    border-radius: 100%;
+}
+
+.title {
+    color: #40bad5;
+}
+
+.badge-color {
+    background-color: #40bad5;
+}
+
+.circle-icon {
+    font-size: x-large !important;
+}
